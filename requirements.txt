@@ -1,4 +1,4 @@
 mediapipe==0.10.21
 streamlit==1.42.0
-opencv-python-headless==4.5.3.56
-opencv-contrib-python
+opencv-python-headless
+libgl1-mesa-glx
