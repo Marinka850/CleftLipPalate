@@ -2,3 +2,4 @@ mediapipe==0.10.21
 opencv==4.11.0
 streamlit==1.42.0
 py-opencv==4.11.0
+opencv-contrib-python==4.11.0.86
