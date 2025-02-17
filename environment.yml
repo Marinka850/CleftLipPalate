@@ -1,6 +1,0 @@
-mediapipe==0.10.21
-streamlit==1.42.0
-#opencv==4.11.0
-#py-opencv==4.11.0
-#opencv-contrib-python==4.11.0.86
-opencv-python-contrib-headless
