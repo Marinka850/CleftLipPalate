@@ -35,7 +35,7 @@ def main():
 
     default_predicted_imgs = {'Face Detection': configs.DEFAULT_DETECT_IMAGE,
                               'Face Landmarks': configs.DEFAULT_LANDMARK_IMAGE,
-                              'Selfie Segmentation': configs.DEFAULT_SEGMENT_IMAGE,
+                              'Selfie Segmentation': configs.DEFAULT_SEGMENT_IMAGE
                               }
 
 
