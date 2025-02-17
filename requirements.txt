@@ -1,4 +1,3 @@
 mediapipe
 streamlit
 opencv-python-headless
-libgl1
